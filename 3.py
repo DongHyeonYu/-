@@ -1,6 +1,6 @@
 import random
 while 1:
-    print("숫자 야구 게임을 시작합니다.")
+    print("숫자 야구 게임을 시작합니다. ")
     n = int(random.random()*1000)
     S = 0
     B = 0
