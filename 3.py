@@ -29,4 +29,4 @@ while 1:
     new = input()
     if new == "N":
         break
-#gg
+#ggasdfa
